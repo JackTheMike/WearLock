@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- A basic system theme that does not rely on Material Components libraries -->
+    <style name="Theme.WearLock" parent="android:Theme.DeviceDefault">
+        <!-- No colors or design assets are required since our app has no visual UI -->
+    </style>
+</resources>

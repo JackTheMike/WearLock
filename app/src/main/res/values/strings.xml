@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WearLock</string>
+    <string name="accessibility_description">Allows WearLock to instantly lock your watch screen when you tap the app icon.</string>
+</resources>
