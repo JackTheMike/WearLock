@@ -10,5 +10,7 @@ I tested this app on tablets and smartphone and it pretty much works on anything
 How to use:
 
 install
+
 Enable this app in Accessibility settings
+
 run it/ click it
